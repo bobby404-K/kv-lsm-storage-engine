@@ -1,0 +1,11 @@
+{
+  "name": "kv-lsm-storage-engine",
+  "version": "2.5.0",
+  "description": "LSM-Tree persistent key-value storage engine in TypeScript",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  }
+}
