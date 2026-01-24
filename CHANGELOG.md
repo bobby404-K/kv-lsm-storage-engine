@@ -9,3 +9,5 @@
 - 2026 Release v2.1.11 deployed on 2026-01-13.
 
 - 2026 Release v2.1.17 deployed on 2026-01-18.
+
+- 2026 Release v2.1.23 deployed on 2026-01-24.
